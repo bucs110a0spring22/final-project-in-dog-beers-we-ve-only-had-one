@@ -5,7 +5,7 @@
 ### << Semester, Year >>
 ### [Assignment Description](https://docs.google.com/document/d/1H4R6yLL7som1lglyXWZ04RvTp_RvRFCCBn6sqv-82ps/edit#)
 
-<< [repl](#) >>
+https://replit.com/join/xbxbvxomvy-thierry-jj
 
 << [link to demo presentation slides](#) >>
 
@@ -26,6 +26,8 @@
     * For example, if your program has a start screen, game screen, and game over screen, you should include a wireframe / screenshot / drawing of each one and a short description of the components
 * << You should also have a screenshot of each screen for your final GUI >>
 
+*  ![Interface](concept.png)
+
 ***        
 
 ## Program Design *(Backend Specialist)*
@@ -37,7 +39,7 @@
         * a short description of the module
 * Class Interface Design
     * << A simple drawing that shows the class relationships in your code (see below for an example). >>
-        * ![class diagram](assets/class_diagram.jpg)
+        * ![class diagram](wip.png)
     * This does not need to be overly detailed, but should show how your code fits into the Model/View/Controller paradigm.
 * Classes
     * << You should have a list of each of your classes with a description. >>
