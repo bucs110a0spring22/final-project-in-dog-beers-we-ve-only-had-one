@@ -83,6 +83,7 @@ The Project is broken down into the following file structure:
 
 | Step                  | Procedure     | Expected Results  | Actual Results |
 | ----------------------|:-------------:| -----------------:| -------------- |
-|  1  | Click on 3Drenderer executable  | Program starts and a window with a menu of buttons appears  |            |
-|  2  | Click on either a scene or object to render | The scene or object is rendered in the window |                  |
+|  1  | Click on 3Drenderer executable  | Program starts and a window appears with a menu, there are buttons that coorespond to a scene or object that can be rendered  |            |
+|  2  | Click on either a scene or object to render | The scene or object is rendered in the window, with a set of buttons and controls that can alter the scene |                  |
+|  3  | Move FOV slider | The FOV of the camera is changed according to the slider | |
 etc...
