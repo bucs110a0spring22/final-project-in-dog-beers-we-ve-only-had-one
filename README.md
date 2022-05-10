@@ -9,14 +9,14 @@ https://replit.com/join/xbxbvxomvy-thierry-jj
 
 << [link to demo presentation slides](#) >>
 
-### Team: << team name >>
-#### << Team Members >>
+### Team: in dog beers weve only had one
+#### Thierry Martineau, Luke Zink, Nhat Dinh Nguyen
 
 ***
 
 ## Project Description *(Software Lead)*
 
-<< Give an overview of your project >>
+3D renderer written in python using pygame
 
 ***    
 
