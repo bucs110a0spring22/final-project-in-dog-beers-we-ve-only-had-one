@@ -83,6 +83,7 @@ The Project is broken down into the following file structure:
 
 | Step                  | Procedure     | Expected Results  | Actual Results |
 | ----------------------|:-------------:| -----------------:| -------------- |
-|  1  | Run Counter Program  | GUI window appears with count = 0  |          |
-|  2  | click count button  | display changes to count = 1 |                 |
+|  1  | Run Program  | GUI window appears with list of objects  |            |
+|  2  | click on an object  | render on screen the object |                  |
+|  3  | 
 etc...
