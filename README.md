@@ -83,7 +83,6 @@ The Project is broken down into the following file structure:
 
 | Step                  | Procedure     | Expected Results  | Actual Results |
 | ----------------------|:-------------:| -----------------:| -------------- |
-|  1  | Run Program  | GUI window appears with list of objects  |            |
-|  2  | click on an object  | render on screen the object |                  |
-|  3  | 
+|  1  | Click on 3Drenderer executable  | Program starts and a window with a menu of buttons appears  |            |
+|  2  | Click on either a scene or object to render  | The scene or object is rendereed in the window |                  |
 etc...
