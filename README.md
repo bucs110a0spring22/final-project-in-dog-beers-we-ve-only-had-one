@@ -16,7 +16,9 @@ https://replit.com/join/xbxbvxomvy-thierry-jj
 
 ## Project Description *(Software Lead)*
 
-3D renderer written in python using pygame
+This is a 3D Renderer written in python using pygame. When the user runs the program, they are presented with a few objects they can render. When the user clicks on the object they want to render, that object is rendered on screen. There is also a FOV slider on screen that the user can slide left or right, left decreasing the FOV and right increasing the F0V.
+
+This renderer reads .obj files in the asset folder, and uses the data from a file to create a list of projected triangles onto 2D space. This is then displayed on screen.
 
 ***    
 
@@ -61,18 +63,18 @@ The Project is broken down into the following file structure:
 ## Tasks and Responsibilities *(Software Lead)*
 
    * You must outline the team member roles and who was responsible for each class/method, both individual and collaborative.
+   
+### Software Lead - Thierry Martineau
 
-### Software Lead - << name >>
+   Responsible for overall project direction and assisted in the programing of both the Graphical User Interface and the Renderer.
 
-<< Worked as integration specialist by... >>
+### Front End Specialist - Luke Zink
 
-### Front End Specialist - << name >>
+   Responsible for the creation of the Graphical User Interface, including buttons and the FOV slider.
 
-<< Front-end lead conducted significant research on... >>
+### Back End Specialist - Nhat-Dinh Nguyen
 
-### Back End Specialist - << name >>
-
-<< The back end specialist... >>
+   Responsible for the theory, mathematics, and programming of the 3D Renderer.
 
 ## Testing *(Software Lead)*
 
@@ -83,7 +85,7 @@ The Project is broken down into the following file structure:
 
 | Step                  | Procedure     | Expected Results  | Actual Results |
 | ----------------------|:-------------:| -----------------:| -------------- |
-|  1  | Click on 3Drenderer executable  | Program starts and a window appears with a menu, there are buttons that coorespond to a scene or object that can be rendered  |            |
-|  2  | Click on either a scene or object to render | The scene or object is rendered in the window, with a set of buttons and controls that can alter the scene |                  |
+|  1  | Click on Run button in Replit  | Program starts and a window appears with a menu, there are buttons that coorespond to a scene or object that can be rendered  |            |
+|  2  | Click on  object to render | The  object is rendered in the window, with a set of buttons and controls that can alter the scene |                  |
 |  3  | Move FOV slider | The FOV of the camera is changed according to the slider | |
 etc...
