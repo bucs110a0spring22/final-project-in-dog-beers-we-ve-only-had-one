@@ -87,5 +87,5 @@ The Project is broken down into the following file structure:
 | ----------------------|:-------------:| -----------------:| -------------- |
 |  1  | Click on Run button in Replit  | Program starts and a window appears with a menu, there are buttons that coorespond to a scene or object that can be rendered  |            |
 |  2  | Click on  object to render | The  object is rendered in the window, with a set of buttons and controls that can alter the scene |                  |
-|  3  | Move FOV slider | The FOV of the camera is changed according to the slider | |
+|  3  | Press FOV Buttons | The FOV of the camera is changed according to the buttons | |
 etc...
